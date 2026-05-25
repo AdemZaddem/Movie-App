@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import type { Movie } from "../types";
 import { Star, Eye, Trash2,EyeOff } from "lucide-react";
 import  {useWatchListStore}  from "../store/WatchListStore";

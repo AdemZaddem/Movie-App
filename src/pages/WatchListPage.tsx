@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { useWatchListStore } from "../store/WatchListStore";
 import WatchedMovieCard from "../components/WatchedMovieCard";
 import { Bookmark } from "lucide-react";

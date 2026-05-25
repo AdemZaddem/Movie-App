@@ -1,5 +1,5 @@
 import { useQuery } from '@tanstack/react-query'
-import { useParams, useNavigate, data } from 'react-router-dom'
+import { useParams, useNavigate} from 'react-router-dom'
 import { getEpisodes, getShow } from '../api/show'
 import { Star, Globe, Plus, ArrowLeft,Check } from 'lucide-react'
 import { useState } from 'react'

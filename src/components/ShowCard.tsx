@@ -1,4 +1,3 @@
-import React from "react";
 import type { Movie } from "../types";
 import { Star, Plus, Check } from "lucide-react";
 import { Link } from "react-router-dom";

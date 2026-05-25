@@ -1,4 +1,3 @@
-import React from 'react'
 import ShowList from '../components/ShowList'
 import { useSerchStore } from '../store/searchStore'
 import { useDebounce } from '../hooks/useDebounce'

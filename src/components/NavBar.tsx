@@ -1,6 +1,6 @@
-import React, { useState } from "react";
+
 import { Bookmark, Search } from "lucide-react";
-import { useDebounce } from "../hooks/useDebounce";
+
 import { useSerchStore } from "../store/searchStore";
 import { Link } from "react-router-dom";
 
